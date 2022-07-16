@@ -29,6 +29,9 @@ In this dimension, all blocks and air will be contaminated. Any overworld mobs (
 Dimension mobs apply Contamination gradually as well.
 Natural items and blocks of this dimension will be natural creators of contamination, which will spread naturally.
 
+When the Ancient City portal is active, it will spread the contamination from itself. Blocks like Obsidian are more resistant to contamination, and can be used to slow it down.
+
+The portal can be accessed with a blue fire lighter, made from: flint + soul sand + iron ingot.
 
 1.4 - communication
 
