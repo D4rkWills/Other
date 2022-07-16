@@ -1,0 +1,211 @@
+Minecraft 1.20: Venom Update
+
+Thank God, yesterday I had great ideas on how to proceed with the Minecraft 1.20 update. I present to you: Minecraft: Venom Update.
+These ideals are mainly based on the community's theories regarding the Ancient Cities portal plus some elements that come from the Stranger Things series.
+
+1 - Venom Dimension
+
+Venom Dimension is the dimension of the skulks, origin of the Warden and other mobs.
+
+1.1 - history
+
+“The inhabitants of the overworld created a portal with a lot of work, with the objective of seeking new resources in another dimension. They ended up finding Venon Dimension, with wireless resources, technology and minerals”
+“Unfortunately, they didn't know that the world was contaminated, so many died there. Contamination also emerged from the portal, and spread through the caves.”
+“In a disastrous moment, the mobs of this dimension found these inhabitants, decimated them in their dimension and in their cities and plotted to contaminate the entire overworld.”
+"Yes, the creatures of this world live on contamination and contamination, including the Warden."
+“But the Warden's who went to the overworld loved that world, and decided to protect it from their companions. Thus, they eliminated all the mobs that passed to the overworld, sealed the portal and swore that they would kill all living species that approached the Ancient Cities or caves, in order to prevent the portal from activating, protecting the world from Skulk Contamination. ”.
+
+1.2 - dimension shape
+
+Dimension blocks will be generated in the same way as the Nether (Netherrack), but there will be a sky. Every active portal will send the player to the central regions of the world (causing him to find himself in a kind of cavernous dimension, but where he can find an open sky when digging/exploring above)
+In it will inhabit skulk mobs and plant species, all blind, guided by sound and smell, and communicating as a Hive Organism.
+There will be one type of lava: the blue lava. Blue lava, unlike blocks, does not spread contamination. Can be collected.
+It will also have contaminated water. Can be collected.
+
+1.3 - contamination
+
+In this dimension, all blocks and air will be contaminated. Any overworld mobs (and players) when coming into contact with these blocks (including those generated in the Ancient Cities) or with the air of the dimension, will accumulate contamination in their body. When the contamination reaches a certain level, they will start taking damage (the contamination can be considered an effect, but it will not be healed with a bucket of milk). The greater the contamination of their bodies, the greater the damage, until the player/mob is eliminated.
+Dimension mobs apply Contamination gradually as well.
+
+1.4 - communication
+
+All mobs, blind, will communicate with sound and smell, but details below.
+
+1.5 - ruins of inhabitants
+These ruins in the Venom Dimension were built by the inhabitants of the overworld, and there you can find items from the overworld and items from the Venom Dimesion.
+2 – What will be special about the dimension?
+
+2.1 - new mobs
+
+Mobs must spawn in this dimension in the same way as the warden (coming out of the ground). However, all mobs will spawn naturally, but the wardem will still need to be summoned by the sculk shrieker.
+Mobs in this dimension will spit excrement from their mouths, spreading contamination across blocks.
+
+Mobs from this dimension attack any player or mobs from the overworld (they do not attack mobs from the Nether or Ender). Piglins will be afraid of them, but some of them will rarely attack them.
+All weapons in the game (except Echo's Items (3.2) and Echo's Sapphire Items ()) will deal 50% less damage to these mobs (including arrow attack, TNT's and other forms of attack).
+They will take less fall damage
+.
+They will be afraid of water, but not affected by it.
+Blue fire/blue lava doesn't damage them, but regular fire/lava does a lot of damage to them.
+The mobs mentioned here are ideas, but there will be many others.
+
+2.1.1 - Warden
+
+All wardems spawned in the dimension will attack any mobs or players. Wardens spawned in the Overworld will only attack players/mobs inside caves.
+Drops: skulk tentacle (1 - 2), echo crystal (1 - rare drop)
+
+2.1.2 - Blob Skulk
+
+An immobile mobs that resembles the ground. It is huge, spherical in shape and is buried, looking for prey. Players and mobs will be able to walk over it, as if it were the ground.
+It will have skulk tentacles near its (closed) mouth, and will orient itself by sound alone. When a player is over his mouth, and he listens to you 3 times, he will open his mouth and devour him, dealing continuous damage to the player and continuously applying Skulk Contamination.
+The player must kill it from the inside to escape. He can also be attacked from outside.
+
+Drops: Tentacle Skulk (2 - 4), Crystal Echo (1 - rare drop), Ooze Skulk (1 - 3)
+
+2.1.3 – Skulk Spiders
+
+Spiders slightly smaller than cave spiders, and slightly faster than spiders. They are guided by sound and smell.
+being hostile,attack any mobs/players, dealing damage, applying poison effect and Skulk Contamination.
+
+Drops: tentacle skulk (1 - 2), echo crystals (1 - rare drop), skulk fungus (1 - 3).
+
+2.1.4 - Boss
+
+The dimension will have a sound/smell-oriented Boss, which will be a boss like the Ender Dragon, but stronger.
+The prize item he will drop is your heart.
+
+Drops: Heart of ???, Echo Star (1 - slightly common drop).
+
+3 - Items
+
+The dimension will open the door to new combat and defense items.
+
+3.1 - Talisman of Reincarnation
+
+Great for Hardcore Mode players, the Talisman of Reincarnation will give the player two perks: Resistance to Skulk Contamination (player will be contaminated slower, and will take less damage from contamination - touch contamination, will not defend against air contamination (1.3) ) ), Reincarnation Effect: upon death, the player will be reborn at the last spawn point (losing the items at the place of death).
+The Reincarnation Effect can only be activated on a medallion 2 times. After the 2 times, it will break, and it will lose its usefulness; thus, the player must create another one.
+Craft: Skulk Tentacle x3 – Soul Sand x1 – Skulk Essence (1x) (3.2.1.2) – Echo Fragment 4x (3.2.1.1)
+It can be placed on the neck.
+
+Skulk Contamination Resistance and Reincarnation Effect will only take effect if: 1 – the item is on the neck. 2 – the item is in the left hand; 3 – the item is in the hotbar.
+
+3.2 - Echo Items
+
+We know well that this dimension will be inhospitable, with no chance of habitation. But there will be ways to stop the contamination.
+Echo items can be crafted with Echo Fragments (found in Ancient City chests and Venom Dimension (relatively small amount))
+
+The crafting of these items will encompass swords, axes and all other tools and armor in the game, and your way of crafting will be exactly the same as these items.
+There will be a special arrow, with the tip made of Echo Shard.
+
+Function: all damage/defences/traits of these items will be equivalent to diamond items (on Ender/Nether/Overworld players and mobs), but will generate defenses/attacks exactly the same as Netherite on Venom Dimension mobs.
+Armor will give Skulk Contamination Resistance (3.1), and attack items will deal regular damage to Venom Dimension mobs.
+Echo Picks and Axes will have the same resource mining capability as diamond items (for Overworld/Ender/Nether blocks), but their capacity will be equivalent to Netherite in Venom Dimension blocks.
+may be enchanted
+
+3.2.1 - Echo Fragment
+
+The Echo Fragment can be found in Ancient Cities, and in the new dimension, mining (3.2) or in chests (1.5)
+
+The Echo shard can also be created
+
+3.2.1.1 - How to create Echo Fragment
+
+The cauldrons will have a new function: create potions and other items! A flame must be lit under the cauldrons for the function to work. Crafted items/potions will be crafted at a slightly slower speed than potion crafting from potion support.
+To create any other item/potion, common flame must be used. But to create the Echo Fragment, one must use blue flame.
+
+Formula: cauldron full of skulk Essence + blue flame below. A bar of Netherite must be thrown into the cauldron, and after the time expires, part of the essence will dry up and the Netherite will be converted into Echo Fragment.
+
+3.2.1.2 – How to create skulk Essence (considered a potion)
+
+You should use the potion holder or cauldron as well. It's a potion.
+On Support: Mundane Potion + (Skulk Tentacle or Skulk Fungus or Skulk Block)
+
+In the cauldron: Mundane Potion + blue fire + (Skulk's Tentacle or Skulk Fungus or Skulk's Block)
+
+Skulk essence, when drunk, will generate the highest level of skulk contamination in the player. Splashable potions will generate regular contamination.
+An arrow with this potion will also exist, generating regular contamination.
+
+3.3 - Echo Sapphire Items
+
+Echo Sapphire will be the strongest new orein the game. It can be found in Venom Dimension (in chests (1.5) or mining (3.2) - very rare when mining, being more advantageous to craft).
+It is a pale blue ore, which glows from the dark with an incandescent bluish light.
+
+All items created with it will also have the same glow.
+
+With them we can create Echo Sapphire Items, more durable, stronger than Netherite, and give immunity to Skulk Contamination (but not protect against air contamination).
+There will be swords, axes, pickaxes... Armor, Echo Sapphire-tipped arrows.
+
+3.3.1 - How to create
+
+Echo's sapphire uses the following craft: Echo's Star x1 + Netherite Ingot (2x). Produces only one sapphire.
+
+The Echo Star can be dropped from the new boss (2), found in chests (1.5 - new dimension chests only) and created.
+The Echo Star can be created as follows: Nether Star x1 + Echo Crystal x4.
+The glow shards are generated in the new dimension, can be found in chests (Ancient Cities and in the new dimensionto). Its generation will be similar to Netherite, and a block to mine this shard will always yield a shard.
+
+3.3.1.1 - Star of the Echo
+
+Furthermore, the Estrela do Eco may have a decorative function. It can be placed on the ground, and will have similar colors and luster to Echo Sapphire (3.3).
+Your animation will be like the Ender Crystal.
+
+3.4 - Bluestone
+
+Bluestone's theory could be reality. They can be found in chests (1.5 – Ancient Cities and in the new dimension).
+In the dimension they will appear mostly in visible areas, and in large quantities.
+It will be a form of energy transmission, and it will communicate with Redstone.
+
+Its differential is that Bluestone, and all Bluestone components (identical to Redstone) will not be broken in water. So while all Redstone components will break in water, Bluestone components will not.
+
+3.5 - Skulk Slime Block (2.1.2)
+
+Gum Skulk blocks are made with Goma Skulk 4x, as are Honey and Slime Blocks.
+
+They will be an addition to the Redstone/Bluestone Technology.
+These blocks do not interact with the Honey or Slime Block, except on one occasion. The only interaction the Skulk Slime Block will have with these blocks will be at its base.
+Any skulk slime block to be placed on top of another block will grab onto it with certain shafts/tentacles, holding it. When moving the block, it will also move the block it held (and only that block). He can also grab from the sides or above, but he will give priority to the block below. It will always only grab one block.
+Its role in the Redstone/Bluestone technology will be to separate blocks of Honey/Slime that are stuck together.
+
+A piston (sticky or not) can separate the Skulk Slime Block from the block it is holding.
+
+3.5.1 - Appearance
+
+It will be a dark block, dark blue in tone. When sticking to a block, it will have a sticky animation with tentacles/veins that will hold the block below it, and other veins/tentacles that will spread around it (it will not hold other blocks).
+It will have the same effect when a player steps/falls on a block of honey.
+
+3.6 - Skulk Antidote
+
+The skulk antidote will be produced in the potion holder or cauldron, being a new potion in Minecraft.
+
+3.6.1 - How to do it
+
+On stand: Skulk Essence (3.2.1.2) + Fermented Spider Eye
+In the Cauldron: Skulk Essence + Blue Fire + Fermented Spider Eye
+
+3.6.2 - Effect
+
+It will gradually eliminate skulk contamination from the player or a mob, and it will be immune to skulk contamination damage.
+When thrown, it will have the same effect, ending, also, with the contamination of the blocks.
+Mobs like the Skulk Spider will be healed and will turn into a cave spider (a cave spider, when fully contaminated, will turn into a Skulk Spider)
+
+3.7 - Decorative blocks
+
+There may be decorative blocks in the game, such as glass, wooden blocks, and stones made from items from that dimension's resources. Collar glass blocks/glass panels, and other luminous blocks will have similar brightness and color to Echo Sapphire (3.3)
+
+3.7.1 - Echo Glowing Block
+
+It grows next to the leaves of the skulk fungus trees, and emits a similar shine to the Sapphire of the Echo, with the same colors.
+Craft: will use the Echo Star.
+
+4 - Live plants
+
+There will be live plants in the dimension, which will attack players and apply skulk contamination.
+
+4.1 – skulk fungus trees
+
+They will communicate with each other via a network of skulk fungi (collectibles), sending signals to each other.
+With other beings, they will communicate by sound (they will also have skulk tentacles).
+
+4.2 - Skulk Communication
+
+Plants (or mobs) with sound guidance will be able to redirect sound to up to two other individuals (or sound will never echo back to a mob/plant if it has already passed through it).
+
+Those are my ideas. Engage and comment for Mojang/Microsoft to add them!
