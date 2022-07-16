@@ -25,7 +25,10 @@ It will also have contaminated water. Can be collected.
 1.3 - contamination
 
 In this dimension, all blocks and air will be contaminated. Any overworld mobs (and players) when coming into contact with these blocks (including those generated in the Ancient Cities) or with the air of the dimension, will accumulate contamination in their body. When the contamination reaches a certain level, they will start taking damage (the contamination can be considered an effect, but it will not be healed with a bucket of milk). The greater the contamination of their bodies, the greater the damage, until the player/mob is eliminated.
+
 Dimension mobs apply Contamination gradually as well.
+Natural items and blocks of this dimension will be natural creators of contamination, which will spread naturally.
+
 
 1.4 - communication
 
@@ -195,9 +198,22 @@ There may be decorative blocks in the game, such as glass, wooden blocks, and st
 It grows next to the leaves of the skulk fungus trees, and emits a similar shine to the Sapphire of the Echo, with the same colors.
 Craft: will use the Echo Star.
 
+3.8 - Transfer Table
+
+The Transfer Table will be able to transfer enchantments from an item of a certain type to another of the same type (sword to sword, ax to axe, etc).
+
+Its craft is similar to the Enchant Table, but with Echo Sapphires in place of Diamonds, and Skulk Block in place of Obsidian.
+
+3.9 - Itens contaminantion
+
+Any items created with resources from the new dimension will be contaminated (except for items made from Echo Shard and Echo Crystals).
+
+Contaminated items pass their contamination to the player gradually, and the reverse is possible.
+To decontaminate these items, in addition to the new dimension resources (which will emit contamination), simply wash them in a lamp with Skulk Antidote or toss a throwable Skulk Antidote at them that can be placed on the floor.
+
 4 - Live plants
 
-There will be live plants in the dimension, which will attack players and apply skulk contamination.
+There will be live plants in the dimension, which will attack players/mobs of Overworld and apply skulk contamination. They will be considered immobile mobs, except the skulk fungus tree.
 
 4.1 – skulk fungus trees
 
