@@ -33,6 +33,16 @@ When the Ancient City portal is active, it will spread the contamination from it
 
 The portal can be accessed with a blue fire lighter, made from: flint + soul sand + iron ingot.
 
+1.3.1 - Skulk Geisers
+
+As we know, all the air in this new dimension will be contaminated, as well as all blocks, plants and mobs.
+
+There will be a form of air contamination in Overword, or any other dimension: the Skulk Geisers.
+
+They will be a structure that will emit a mist (like new dimension mist/air) in an irregular area above and/or around them, making the air in that region contaminated (this mist also contaminates mobs/blocks/structures/items).
+
+This structure can be grouped in the same block up to 3 times (like sea cucumbers and sails), and when more of them are in a block, more mist will be sprayed.
+
 1.4 - communication
 
 All mobs, blind, will communicate with sound and smell, but details below.
@@ -123,9 +133,8 @@ Formula: cauldron full of skulk Essence + blue flame below. A bar of Netherite m
 3.2.1.2 – How to create skulk Essence (considered a potion)
 
 You should use the potion holder or cauldron as well. It's a potion.
-On Support: Mundane Potion + (Skulk Tentacle or Skulk Fungus or Skulk Block)
 
-In the cauldron: Mundane Potion + blue fire + (Skulk's Tentacle or Skulk Fungus or Skulk's Block)
+Craft (cauldrons): Mundane Potion + blue fire + (Skulk's Tentacle or Skulk Fungus or Skulk's Block)
 
 Skulk essence, when drunk, will generate the highest level of skulk contamination in the player. Splashable potions will generate regular contamination.
 An arrow with this potion will also exist, generating regular contamination.
@@ -179,11 +188,10 @@ It will have the same effect when a player steps/falls on a block of honey.
 
 3.6 - Skulk Antidote
 
-The skulk antidote will be produced in the potion holder or cauldron, being a new potion in Minecraft.
+The skulk antidote will be produced in the cauldron, being a new potion in Minecraft.
 
 3.6.1 - How to do it
 
-On stand: Skulk Essence (3.2.1.2) + Fermented Spider Eye
 In the Cauldron: Skulk Essence + Blue Fire + Fermented Spider Eye
 
 3.6.2 - Effect
@@ -212,11 +220,15 @@ Its craft is similar to the Enchant Table, but with Echo Sapphires in place of D
 Any items created with resources from the new dimension will be contaminated (except for items made from Echo Shard and Echo Crystals).
 
 Contaminated items pass their contamination to the player gradually, and the reverse is possible.
-To decontaminate these items, in addition to the new dimension resources (which will emit contamination), simply wash them in a lamp with Skulk Antidote or toss a throwable Skulk Antidote at them that can be placed on the floor.
+To decontaminate them, drop the item into a cauldron full of Skulk Antidote, and for items that can be placed on the floor, you can throw a splashable potion of Skulk Antidote on them.
 
 4 - Live plants
 
 There will be live plants in the dimension, which will attack players/mobs of Overworld and apply skulk contamination. They will be considered immobile mobs, except the skulk fungus tree.
+
+4.1 - Not live plants
+
+There will be plants that are not mobs too, but they will keep spreading contamination.
 
 4.1 – skulk fungus trees
 
