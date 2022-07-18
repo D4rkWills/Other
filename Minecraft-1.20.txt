@@ -112,6 +112,8 @@ Echo items can be crafted with Echo Fragments (found in Ancient City chests and 
 The crafting of these items will encompass swords, axes and all other tools and armor in the game, and your way of crafting will be exactly the same as these items.
 There will be a special arrow, with the tip made of Echo Shard.
 
+Echo Shard armor will give resistance to contamination (by touch only, the air will continue to contaminate at the same rate), delaying the rate at which your body contaminates. They will also absorb damage from the Warden.
+
 Function: all damage/defences/traits of these items will be equivalent to diamond items (on Ender/Nether/Overworld players and mobs), but will generate defenses/attacks exactly the same as Netherite on Venom Dimension mobs.
 Armor will give Skulk Contamination Resistance (3.1), and attack items will deal regular damage to Venom Dimension mobs.
 Echo Picks and Axes will have the same resource mining capability as diamond items (for Overworld/Ender/Nether blocks), but their capacity will be equivalent to Netherite in Venom Dimension blocks.
@@ -147,6 +149,9 @@ It is a pale blue ore, which glows from the dark with an incandescent bluish lig
 All items created with it will also have the same glow.
 
 With them we can create Echo Sapphire Items, more durable, stronger than Netherite, and give immunity to Skulk Contamination (but not protect against air contamination).
+
+Echo Sapphire armor will give immunity to contamination (by touch only, the air will continue to contaminate). They will also be able to absorb the Warden's damage.
+
 There will be swords, axes, pickaxes... Armor, Echo Sapphire-tipped arrows.
 
 3.3.1 - How to create
