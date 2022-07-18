@@ -134,7 +134,7 @@ Formula: cauldron full of skulk Essence + blue flame below. A bar of Netherite m
 
 3.2.1.2 – How to create skulk Essence (considered a potion)
 
-You should use the potion holder or cauldron as well. It's a potion.
+You should use the cauldron as well. It's a potion.
 
 Craft (cauldrons): Mundane Potion + blue fire + (Skulk's Tentacle or Skulk Fungus or Skulk's Block)
 
@@ -237,7 +237,7 @@ There will be plants that are not mobs too, but they will keep spreading contami
 
 4.1 – skulk fungus trees
 
-They will communicate with each other via a network of skulk fungi (collectibles), sending signals to each other.
+They will communicate with each other via a network of skulk fungi (collectibles --> skulk fungus (2 - 3)), sending signals to each other.
 With other beings, they will communicate by sound (they will also have skulk tentacles).
 
 4.2 - Skulk Communication
